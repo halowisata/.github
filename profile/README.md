@@ -1,6 +1,6 @@
 # Halowisata
 <p align="center">
-    <img src="https://raw.githubusercontent.com/halowisata/.github/main/LOGO-2-removebg-preview.png?token=GHSAT0AAAAAACCEXXIPTL6DPE7CRG3JMDN4ZEKTK3A">
+    <img src="https://raw.githubusercontent.com/halowisata/.github/main/LOGO-2.png">
 </p>
 
 
