@@ -1,7 +1,7 @@
 # Halowisata 👋
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/halowisata/.github/main/LOGO-3.png">
+    <img src="https://raw.githubusercontent.com/halowisata/.github/main/LOGO-4.png">
 </p>
 
 ## About The Project 💬
