@@ -9,14 +9,14 @@
 ## Team Member
 <b>Team ID: C23-PC704</b>
 
-| Name                       | Student ID  | Path                |
-| -------------------------- | ----------- | ------------------- |
-| I Gede Febry Abdi Saputra  | M038DSX2924 | Machine Learning    |
-| Ratna Tri Ningsih          | M169DSY2999 | Machine Learning    |
-| Khalilullah Al Faath       | M360DSX0119 | Machine Learning    |
-| Ganis Arindatu             | C174DSY2772 | Cloud Computing     |
-| Hasbullah Dedat Hasbala M  | C191DKX4733 | Cloud Computing     |
-| Musthafa Kamal Faishal     | A166DSX4941  | Android Development |
+| Name                       | Student ID  | Path                | University                                   |
+| -------------------------- | ----------- | ------------------- |--------------------------------------------- |
+| I Gede Febry Abdi Saputra  | M038DSX2924 | Machine Learning    | Institut Teknologi Sepuluh Nopember          |
+| Ratna Tri Ningsih          | M169DSY2999 | Machine Learning    | Universitas Gadjah Mada                      |
+| Khalilullah Al Faath       | M360DSX0119 | Machine Learning    | Universitas Telkom                           |
+| Ganis Arindatu             | C174DSY2772 | Cloud Computing     | Universitas Hamzanwadi                       |
+| Hasbullah Dedat Hasbala M  | C191DKX4733 | Cloud Computing     | Universitas Islam Negeri Alauddin Makassar   |
+| Musthafa Kamal Faishal     | A166DSX4941 | Android Development | Universitas Diponegoro                       |
 
 
 ## Resource
