@@ -20,7 +20,7 @@ and rating. We recognize that many people are looking for ways to unwind and fin
 | Khalilullah Al Faath      | M360DSX0119 | Machine Learning    | Universitas Telkom                         |
 | Ganis Arindatu            | C174DSY2772 | Cloud Computing     | Universitas Hamzanwadi                     |
 | Hasbullah Dedat Hasbala M | C191DKX4733 | Cloud Computing     | Universitas Islam Negeri Alauddin Makassar |
-| Musthafa Kamal Faishal    | A166DSX4941 | Android Development | Universitas Diponegoro                     |
+| Musthafa Kamal Faishal    | A166DSX4941 | Mobile Development  | Universitas Diponegoro                     |
 
 ## Resource 🧰
 
@@ -34,5 +34,5 @@ and rating. We recognize that many people are looking for ways to unwind and fin
 
 ## Acknowledgment 🙌
 
-This project was developed for fullfill the final capstone project submission at Bangkit 2023.
+This project was developed for fullfill the final capstone project submission at Bangkit 2023.</br>
 ![](https://hackmd.io/_uploads/r1VL5VVvh.png)
