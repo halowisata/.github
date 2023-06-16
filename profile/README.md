@@ -34,5 +34,5 @@ and rating. We recognize that many people are looking for ways to unwind and fin
 
 ## Acknowledgment 🙌
 
-This project was developed for fullfill the final capstone project submission at Bangkit 2023.</br>
-![](https://hackmd.io/_uploads/r1VL5VVvh.png)
+<p>This project was developed for fullfill the final capstone project submission at Bangkit 2023.</p>
+<img src="https://hackmd.io/_uploads/r1VL5VVvh.png" />
