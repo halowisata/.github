@@ -6,6 +6,9 @@
 
 ## About The Project 💬
 
+We are excited to develop a mobile application that recommends users find attractions based on the user's mood
+and rating. We recognize that many people are looking for ways to unwind and find healing admist their busy lives, and we believe that our application can help by providing personalized recommendations for natural beauty spots in indonesia.
+
 ## Team Member 👨‍👧‍👦
 
 <b>Team ID: C23-PC704</b>
