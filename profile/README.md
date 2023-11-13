@@ -20,7 +20,7 @@ and rating. We recognize that many people are looking for ways to unwind and fin
 | Khalilullah Al Faath      | M360DSX0119 | Machine Learning    | Universitas Telkom                         |
 | Ganis Arindatu            | C174DSY2772 | Cloud Computing     | Universitas Hamzanwadi                     |
 | Hasbullah Dedat Hasbala M | C191DKX4733 | Cloud Computing     | Universitas Islam Negeri Alauddin Makassar |
-| Musthafa Kamal Faishal    | A166DSX4941 | Android Development | Universitas Diponegoro                     |
+| Musthafa Faishal    | A166DSX4941 | Android Development | Universitas Diponegoro                     |
 
 ## Resource 🧰
 
